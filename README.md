@@ -20,4 +20,4 @@ Sou um jovem de 21 anos de idade, finalista do curso de Licenciatura em informat
 
 Ao longo da minha formação académica realizei estágio no departimento de
 Tecnologia de Informação (TI) na Universidade Licungo, e também estágiei na NSDEVIL
-como programodor (desenvolvedor de sistema web). 
+como programodor (desenvolvedor de sistema  WEB). 
